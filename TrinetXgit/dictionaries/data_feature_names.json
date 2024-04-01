@@ -1,0 +1,190 @@
+   { "num__l1_TTNT": "TTNT (l1)",
+   
+    "num__dx_protg": "M-Protein g/l (dx)",
+    "num__l1_protg": "M-Protein g/l (l1)",
+    "num__l2_protg": "M-Protein g/l (l2)",
+   
+    
+    "num__dx_iddat_age": "diagnose age",
+    "num__dx_BMI": "BMI",
+    "num__l1_BMI_change": "BMI change (l1)",
+    "num__l2_BMI_change": "BMI change (l2)",
+
+    "cat__dx_prottyp_2.0": "IgG (dx)",
+    "cat__l1_prottyp_2.0": "IgG (l1)",
+    "cat__l2_prottyp_1.0":"IgA (l2)",
+
+    "cat__dx_einrverd_1.0": "University Clinic (suspected)",
+    "cat__dx_einrverd_2.0": "Praxis (suspected)",
+    "cat__dx_einrverd_3.0": "Non University Hospital (suspected)",
+    "cat__dx_einrverd_4.0": "Praxis MVZ (suspected)",
+    "cat__dx_einrverd_5.0": "Unknown Clinic (suspected)",
+    "cat__dx_einrverd_6.0": "other Clinic (suspected)",
+
+    "cat__dx_einrid_1.0": "University Clinic (initial diagnostic)",
+    "cat__dx_einrid_2.0": "Praxis (initial diagnostic)",
+    "cat__dx_einrid_3.0": "Non University Hospital (initial diagnostic)",
+    "cat__dx_einrid_4.0": "Praxis MVZ (initial diagnostic)",
+    "cat__dx_einrid_5.0": "Unknown Clinic (initial diagnostic)",
+    "cat__dx_einrid_6.0": "other Clinic (initial diagnostic)",
+    "cat__dx_einrid_10.0":"Unknown/other Clinic (initial diagnostic)",
+    
+    "cat__l2_rtpremdauer_1.0":"Remission 6 months (l1)",
+    "cat__l2_rtpremdauer_2.0":"Remission 7-12 months (l1)",
+    "cat__l2_rtpremdauer_3.0":"Remission > 12 months (l1)",
+    
+
+    "cat__dx_dusa_1.0":"Stadium I (dx)",
+    "cat__l1_dusa_1.0":"Stadium I (l1)",
+    "cat__l2_dusa_1.0":"Stadium I (l2)",
+
+    "cat__dx_dusa_2.0":"Stadium II (dx)",
+    "cat__l1_dusa_2.0":"Stadium II (l1)",
+    "cat__l2_dusa_2.0":"Stadium II (l2)",
+
+    "cat__dx_dusa_3.0":"Stadium III (dx)",
+    "cat__l1_dusa_3.0":"Stadium III (l1)",
+    "cat__l2_dusa_3.0":"Stadium III (l2)",
+    
+    "cat__dx_iss_1.0":"ISS Stadium I (dx)",
+    "cat__dx_iss_2.0":"ISS Stadium II (dx)",
+    "cat__dx_iss_3.0":"ISS Stadium III (dx)",
+    "cat__l1_iss_1.0":"ISS Stadium I (l1)",
+    "cat__l1_iss_2.0":"ISS Stadium II (l1)",
+    "cat__l1_iss_3.0":"ISS Stadium III (l1)",
+    "cat__l2_iss_1.0":"ISS Stadium I (l2)",
+    "cat__l2_iss_2.0":"ISS Stadium II (l2)",
+    "cat__l2_iss_3.0":"ISS Stadium III (l2)",
+   
+
+    "bin__l2_rtpnotwpathfrak" : "Pathological fractures (l2)",
+    "bin__l2_rtpnotwhyperkalz": "Development of hypercalcemia (l2)",
+    "bin__l2_rtpnotwnierenin" : "Deterioration of renalinsufficiency (l2)",
+
+    "bin__dx_crabkritc": "Hypercalcaemia (dx)",
+    "bin__l1_crabkritc": "Hypercalcaemia (l1)",
+    "bin__l2_crabkritc": "Hypercalcaemia (l2)",
+    
+    "bin__dx_crabkritr": "Renal dysfunction (dx)",
+    "bin__l1_crabkritr": "Renal dysfunction (l1)",
+    "bin__l2_crabkritr": "Renal dysfunction (l2)",
+
+    "bin__dx_crabkrita": "Anaemia  (dx)",
+    "bin__l1_crabkrita": "Anaemia  (l1)",
+    "bin__l2_crabkrita": "Anaemia (l2)",
+    
+    "bin__dx_crabkritb": "Bone involvement (dx)",
+    "bin__l1_crabkritb": "Bone involvement (l1)",
+    "bin__l2_crabkritb": "Bone involvement (l2)",
+    
+    "bin__l1_kandsct": "Stem cell transplantation candidate (l1)",
+    "bin__l2_kandsct": "Stem cell transplantation candidate (l2)",
+
+    "bin__l1_smdurch": "Chemotherapy for stem cell mobilisation (l1)",
+    "bin__l1_hddurch": "High-dose Chemotherapy (l1)",
+    "bin__l1_autosctdurch": "Autologous stem cell transplantation (l1)",
+    "bin__l1_suppdurch": "Supportive therapy (l1)",
+
+    "bin__l2_smdurch": "Chemotherapy for stem cell mobilisation (l2)",
+    "bin__l2_hddurch": "High-dose Chemotherapy (l2)",
+    "bin__l2_autosctdurch": "Autologous stem cell transplantation (l2)",
+    "bin__l2_suppdurch": "Supportive therapy (l2)",
+   
+    "bin__l1_drug_1":"Drug 1 (l1)",
+    "bin__l1_drug_2":"Drug 2 (l1)",
+    "bin__l1_drug_3":"Drug 3 (l1)",
+    "bin__l2_drug_3":"Drug 3 (l2)",
+    "bin__l2_drug_4":"Drug 4 (l2)",
+    "bin__l2_drug_5":"Drug 5 (l2)",
+    "bin__l1_drug_6":"Drug 6 (l1)",
+    "bin__l2_drug_6":"Drug 6 (l2)",
+    "bin__l1_drug_7":"Drug 7 (l1)",
+    "bin__l2_drug_1":"Drug 1 (l2)",
+    "bin__l1_drug_11":"Drug 11 (l1)",
+    "bin__l1_drug_8":"Drug 8 (l1)",
+    "bin__l2_drug_8":"Drug 8 (l2)",
+
+   
+    "bin__l2_beglhyper":"Hypertension (l2)",
+    "bin__l1_beglhyper":"Hypertension (l1)",
+    "bin__dx_beglhyper":"Hypertension (dx)",
+   
+
+    
+    "bin__l1_ecogbin": "ECOG (l1)",
+   
+    "bin__l2_ecogbin": "ECOG (l2)",
+   
+   
+    "bin__dx_ecogbin": "ECOG (dx)",
+
+    "cat__l1_ecog_0.0": "ECOG 0 - fully active (l1)",
+    "cat__l1_ecog_1.0": "ECOG 1 - restricted activity (l1)",
+    "cat__l1_ecog_2.0": "ECOG 2 - Ambulatory, no work (l1)",
+    "cat__l1_ecog_3.0": "ECOG 3 - limited selfcare (l1)",
+    "cat__l1_ecog_4.0": "ECOG 4 - disable (l1)",
+    "cat__l1_ecog_10.0": "ECOG >2 - limited/disable (l1)",
+
+    "cat__l2_ecog_0.0": "ECOG 0 - fully active (l2)",
+    "cat__l2_ecog_1.0": "ECOG 1 - restricted activity (l2)",
+    "cat__l2_ecog_2.0": "ECOG 2 - Ambulatory, no work (l2)",
+    "cat__l2_ecog_3.0": "ECOG 3 - limited selfcare (l2)",
+    "cat__l2_ecog_4.0": "ECOG 4 - disable (l2)",
+    "cat__l2_ecog_10.0": "ECOG >2 - limited/disable (l2)",
+
+    "cat__dx_ecog_0.0": "ECOG 0 - fully active (dx)",
+    "cat__dx_ecog_1.0": "ECOG 1 - restricted activity (dx)",
+    "cat__dx_ecog_2.0": "ECOG 2 - Ambulatory, no work (dx)",
+    "cat__dx_ecog_3.0": "ECOG 3 - limited selfcare (dx)",
+    "cat__dx_ecog_4.0": "ECOG 4 - disable (dx)",
+    "cat__dx_ecog_10.0": "ECOG >2 - limited/disable (dx)",
+
+   
+
+   
+
+    "cat__dx_fachid_1.0":"Oncology/Hematology Speciality (initial)",
+    "cat__dx_fachid_3.0":"Internal Medicine (initial)" ,
+    "cat__dx_fachid_10.0":"Other Speciality (initial)",
+    
+    "cat__dx_fachverd_1.0":"Oncology/Hematology Speciality (suspected)",
+    "cat__dx_fachverd_3.0":"Internal Medicine (suspected)" ,
+    "cat__dx_fachverd_4.0":"Nephrology Speciality (suspected)",
+    "cat__dx_fachverd_10.0":"Other Speciality (suspected)",
+    
+   
+    "bin__dx_female_sex": "Sex (Female)",
+    "cat__l1_fit_2.0":"Limited fitness",
+    "cat__l2_fit_1.0":"Fitter patient",
+    "cat__l1_fit_3.0":"Unfit patient",
+    "cat__l2_fit_3.0":"Unfit patient",
+    "cat__l2_fit_2.0":"Limited fitness",
+    "cat__l1_fit_1.0":"Fitter patient",
+
+
+    "cat__dx_mmtyp_1.0":"Multiple Myeloma",
+    "cat__dx_mmtyp_10.0":"another cancer",
+
+
+
+    "cat__l1_prottyp_1.0":"IgA (l1)",
+    "cat__l2_prottyp_10.0":"Other type of Ig (l2)",
+    "cat__l2_prottyp_2.0":"IgG (l2)",
+    "cat__l1_prottyp_10.0":"Other type of Ig (l2)",
+    "cat__dx_prottyp_10.0":"Other type of Ig (l2)",
+    "cat__dx_prottyp_1.0":"IgA (l1)",
+
+    "bin__l2_rtpnotwinsuffi":"Hematopoietic insufficiency",
+    "bin__l2_rtpnotwmprot":"Fast increasing M-Protein",
+    "bin__l2_rtpnotwosteo":"Osteolyses",
+
+    
+    "cat__l2_rtptheraentsch_1.0":"Treatment: Relapse ICD C90.01",
+    "cat__l2_rtptheraentsch_2.0":"Treatment: Refractory patient",
+    "cat__l2_rtptheraentsch_3.0":"Treatment: Other reason",
+    "cat__dx_versi_1.0":"Insurance: Legal",
+    "cat__dx_versi_2.0":"Insurance: Private",
+    "cat__dx_versi_3.0":"Insurance: Other"
+
+
+    }
